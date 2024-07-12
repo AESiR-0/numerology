@@ -29,7 +29,7 @@ export default function Home() {
       <NavBar />
       <Hero />
       <div className="relative w-full">
-      <SectionTran />
+        <SectionTran />
       </div>
       <AboutUs />
 

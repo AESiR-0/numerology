@@ -93,27 +93,16 @@ const CourseContent = () => {
 
         {/* YouTube Videos Section */}
         <div className="mt-16">
-          <div className="grid grid-cols-1 md:grid-cols-1 lg:grid-cols-2 gap-8 mt-8">
-            {/* <div className="w-full h-80 rounded-lg overflow-hidden">
+          <div className="flex justify-center items-center mt-8">
+      
+            <div className="w-full h-80 flex justify-center self-center rounded-lg overflow-hidden">
               <iframe
-                width="100%"
+                width="50%"
                 height="100%"
                 src="https://www.youtube.com/embed/26-EjlVIoPU"
                 frameborder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowFullScreen
-                className="w-full h-full"
-              ></iframe>
-            </div> */}
-            <div className="w-full h-80 rounded-lg overflow-hidden">
-              <iframe
-                width="100%"
-                height="100%"
-                src="https://www.youtube.com/embed/26-EjlVIoPU"
-                frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowFullScreen
-                className="w-full h-full"
               ></iframe>
             </div>
           </div>
