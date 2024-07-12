@@ -68,7 +68,7 @@ export default function Footer() {
         </div>
       </div>{" "}
       <p className="text-center text-white text-sm sm:text-base mt-2">
-        &copy; 2024 Agraneeh Man. All Rights Reserved.
+         2024 Agraneeh Man. All Rights Reserved.
       </p>
     </div>
   );

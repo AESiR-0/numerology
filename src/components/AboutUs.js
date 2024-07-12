@@ -60,7 +60,7 @@ export default function AboutUs() {
           transition={{ duration: 1, delay: 0.7 }}
           className="md:w-1/2 md:mr-10 mb-10 md:mb-0 pl-10"
         >
-          <video width='600'>
+          <video width='600' controls>
             <source src="../images/numerology.mp4"></source>
           </video>
         </motion.div>
