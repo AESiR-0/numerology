@@ -36,6 +36,9 @@ export default function Home() {
       {/* <VideosSection /> */}
       <CourseContent />
       <ParallaxSection />
+<div className="relative w-full">
+        <SectionTran />
+      </div>
       <Services />
       <Testimonials />
       <PurchaseParallax />
