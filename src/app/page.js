@@ -39,11 +39,11 @@ export default function Home() {
       <Services />
       <Testimonials />
       <PurchaseParallax />
-      <MyStory />
-      <ContactUs />
 <div className="relative w-full">
         <SectionTran />
       </div>
+      <MyStory />
+      <ContactUs />
       <Footer />
     </div>
   );
