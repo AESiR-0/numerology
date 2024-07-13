@@ -41,6 +41,9 @@ export default function Home() {
       <PurchaseParallax />
       <MyStory />
       <ContactUs />
+<div className="relative w-full">
+        <SectionTran />
+      </div>
       <Footer />
     </div>
   );
